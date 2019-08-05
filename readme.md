@@ -1,0 +1,2 @@
+This is my first script. Please let me know on github or on FiveM Forums if there is anything wrong with it. This script wasn't 100% originated from me however, I edited 
+a lot of it. Refer to the License file for the copyright hold.
